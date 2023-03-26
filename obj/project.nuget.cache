@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "GhKgeZvi4G5NlHAOt4t9cuvx1lJyFviOXppUllpBtppE0i76CWEvD45xyGy+bqNKsLde4kunrjgF2LA5sEpfmw==",
+  "dgSpecHash": "sKITG65A+EyDO1qbA4sRLqQC0D95lWqwwNmGQX95ThY9y5MSG2EChq+xWj26ictCXrFIJDcKpJ13uS3O1vjDfg==",
   "success": true,
   "projectFilePath": "C:\\Users\\rdiaz\\OneDrive\\Escritorio\\Escuela\\Sem 8\\Aplicaciones multiplataforma\\Codigo\\ChequesRepo\\ChequesRepo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\rdiaz\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\system.data.sqlclient.4.8.5.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\rdiaz\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
